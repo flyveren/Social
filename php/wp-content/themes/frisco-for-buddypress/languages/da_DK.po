@@ -1,0 +1,956 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frisco for BuddyPress v1.6.13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-06-15 10:03:13-0500\n"
+"Last-Translator: flyveren <flyveren@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: activity/index.php:21
+#@ buddypress
+msgid "Site Activity"
+msgstr ""
+
+#: activity/index.php:39
+#@ buddypress
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: activity/index.php:39
+#: members/index.php:35
+#, php-format
+#@ buddypress
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:49
+#@ buddypress
+msgid "The activity of my friends only."
+msgstr ""
+
+#: activity/index.php:49
+#: members/index.php:39
+#, php-format
+#@ buddypress
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:61
+#@ buddypress
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: activity/index.php:61
+#: groups/index.php:41
+#, php-format
+#@ buddypress
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:71
+#@ buddypress
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: activity/index.php:71
+#, php-format
+#@ buddypress
+msgid "My Favorites <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:77
+#@ buddypress
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: activity/index.php:77
+#@ buddypress
+msgid "Mentions"
+msgstr ""
+
+#: activity/index.php:77
+#, php-format
+#@ buddypress
+msgid "<span>%s new</span>"
+msgstr ""
+
+#: activity/index.php:87
+#@ buddypress
+msgid "RSS Feed"
+msgstr ""
+
+#: activity/index.php:87
+#@ buddypress
+msgid "RSS"
+msgstr ""
+
+#: activity/index.php:91
+#@ buddypress
+msgid "Show:"
+msgstr ""
+
+#: activity/index.php:93
+#@ buddypress
+msgid "Everything"
+msgstr ""
+
+#: activity/index.php:94
+#@ buddypress
+msgid "Updates"
+msgstr ""
+
+#: activity/index.php:98
+#@ buddypress
+msgid "Posts"
+msgstr ""
+
+#: activity/index.php:99
+#@ buddypress
+msgid "Comments"
+msgstr ""
+
+#: activity/index.php:105
+#@ buddypress
+msgid "Forum Topics"
+msgstr ""
+
+#: activity/index.php:106
+#@ buddypress
+msgid "Forum Replies"
+msgstr ""
+
+#: activity/index.php:112
+#@ buddypress
+msgid "New Groups"
+msgstr ""
+
+#: activity/index.php:113
+#@ buddypress
+msgid "Group Memberships"
+msgstr ""
+
+#: activity/index.php:119
+#@ buddypress
+msgid "Friendships"
+msgstr ""
+
+#: activity/index.php:123
+#@ buddypress
+msgid "New Members"
+msgstr ""
+
+#: blogs/create.php:26
+#: blogs/index.php:23
+#@ buddypress
+msgid "Create a Site"
+msgstr ""
+
+#: blogs/create.php:26
+#: blogs/index.php:23
+#@ buddypress
+msgid "Site Directory"
+msgstr ""
+
+#: blogs/create.php:37
+#@ buddypress
+msgid "Site registration is currently disabled"
+msgstr ""
+
+#: blogs/index.php:35
+#, php-format
+#@ buddypress
+msgid "All Sites <span>%s</span>"
+msgstr ""
+
+#: blogs/index.php:39
+#, php-format
+#@ buddypress
+msgid "My Sites <span>%s</span>"
+msgstr ""
+
+#: blogs/index.php:58
+#: forums/index.php:63
+#: groups/index.php:60
+#: members/index.php:58
+#@ buddypress
+msgid "Order By:"
+msgstr ""
+
+#: blogs/index.php:60
+#: forums/index.php:65
+#: groups/index.php:62
+#: members/index.php:60
+#@ buddypress
+msgid "Last Active"
+msgstr ""
+
+#: blogs/index.php:61
+#@ buddypress
+msgid "Newest"
+msgstr ""
+
+#: blogs/index.php:62
+#: groups/index.php:65
+#: members/index.php:65
+#@ buddypress
+msgid "Alphabetical"
+msgstr ""
+
+#: flyver-page.php:59
+#: page.php:18
+#@ buddypress
+msgid "<p class=\"serif\">Read the rest of this page &rarr;</p>"
+msgstr ""
+
+#: flyver-page.php:61
+#: index.php:38
+#: page.php:20
+#: single.php:30
+#@ buddypress
+msgid "Pages: "
+msgstr ""
+
+#: flyver-page.php:62
+#: page.php:21
+#@ buddypress
+msgid "Edit this page."
+msgstr ""
+
+#: forums/index.php:23
+#@ buddypress
+msgid "Forums Directory"
+msgstr ""
+
+#: forums/index.php:23
+#@ buddypress
+msgid "New Topic"
+msgstr ""
+
+#: forums/index.php:40
+#, php-format
+#@ buddypress
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+#: forums/index.php:44
+#, php-format
+#@ buddypress
+msgid "My Topics <span>%s</span>"
+msgstr ""
+
+#: forums/index.php:66
+#@ buddypress
+msgid "Most Posts"
+msgstr ""
+
+#: forums/index.php:67
+#@ buddypress
+msgid "Unreplied"
+msgstr ""
+
+#: forums/index.php:103
+#@ buddypress
+msgid "Create New Topic:"
+msgstr ""
+
+#: forums/index.php:107
+#@ buddypress
+msgid "Title:"
+msgstr ""
+
+#: forums/index.php:110
+#@ buddypress
+msgid "Content:"
+msgstr ""
+
+#: forums/index.php:113
+#@ buddypress
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: forums/index.php:116
+#@ buddypress
+msgid "Post In Group Forum:"
+msgstr ""
+
+#. translators: no option picked in select box
+#: forums/index.php:119
+#@ buddypress
+msgid "----"
+msgstr ""
+
+#: forums/index.php:136
+#@ buddypress
+msgid "Post Topic"
+msgstr ""
+
+#: forums/index.php:137
+#@ buddypress
+msgid "Cancel"
+msgstr ""
+
+#: forums/index.php:148
+#, php-format
+#@ buddypress
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr ""
+
+#: functions.php:60
+#@ buddypress
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:211
+#, php-format
+#@ buddypress
+msgid "Theme activated! This theme contains <a href=\"%s\">a few options</a> and <a href=\"%s\">sidebar widgets</a>."
+msgstr ""
+
+#: functions.php:375
+#@ friscotheme
+msgid "x"
+msgstr ""
+
+#: functions.php:417
+#: theme-options.php:18
+#: theme-options.php:19
+#@ friscotheme
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:419
+#@ friscotheme
+msgid "Edit the color scheme or title font using the customizer. For more advanced customization, go to the Theme Options page."
+msgstr ""
+
+#: functions.php:431
+#@ themename
+msgid "Color Scheme"
+msgstr ""
+
+#: groups/create.php:31
+#: groups/index.php:23
+#@ buddypress
+msgid "Create a Group"
+msgstr ""
+
+#: groups/create.php:31
+#: groups/index.php:23
+#@ buddypress
+msgid "Groups Directory"
+msgstr ""
+
+#: groups/create.php:55
+#@ buddypress
+msgid "Group Name (required)"
+msgstr ""
+
+#: groups/create.php:58
+#@ buddypress
+msgid "Group Description (required)"
+msgstr ""
+
+#: groups/create.php:74
+#@ buddypress
+msgid "Privacy Options"
+msgstr ""
+
+#: groups/create.php:78
+#@ buddypress
+msgid "This is a public group"
+msgstr ""
+
+#: groups/create.php:80
+#@ buddypress
+msgid "Any site member can join this group."
+msgstr ""
+
+#: groups/create.php:81
+#: groups/create.php:90
+#@ buddypress
+msgid "This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: groups/create.php:82
+#@ buddypress
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: groups/create.php:87
+#@ buddypress
+msgid "This is a private group"
+msgstr ""
+
+#: groups/create.php:89
+#@ buddypress
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: groups/create.php:91
+#: groups/create.php:100
+#@ buddypress
+msgid "Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: groups/create.php:96
+#@ buddypress
+msgid "This is a hidden group"
+msgstr ""
+
+#: groups/create.php:98
+#@ buddypress
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: groups/create.php:99
+#@ buddypress
+msgid "This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: groups/create.php:105
+#@ buddypress
+msgid "Group Invitations"
+msgstr ""
+
+#: groups/create.php:107
+#@ buddypress
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: groups/create.php:112
+#@ buddypress
+msgid "All group members"
+msgstr ""
+
+#: groups/create.php:117
+#@ buddypress
+msgid "Group admins and mods only"
+msgstr ""
+
+#: groups/create.php:122
+#@ buddypress
+msgid "Group admins only"
+msgstr ""
+
+#: groups/create.php:128
+#@ buddypress
+msgid "Group Forums"
+msgstr ""
+
+#: groups/create.php:130
+#@ buddypress
+msgid "Should this group have a forum?"
+msgstr ""
+
+#: groups/create.php:133
+#@ buddypress
+msgid "Enable discussion forum"
+msgstr ""
+
+#: groups/create.php:158
+#@ buddypress
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr ""
+
+#: groups/create.php:162
+#@ buddypress
+msgid "Upload Image"
+msgstr ""
+
+#: groups/create.php:166
+#@ buddypress
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: groups/create.php:173
+#@ buddypress
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: groups/create.php:175
+#@ buddypress
+msgid "Avatar to crop"
+msgstr ""
+
+#: groups/create.php:178
+#@ buddypress
+msgid "Avatar preview"
+msgstr ""
+
+#: groups/create.php:181
+#@ buddypress
+msgid "Crop Image"
+msgstr ""
+
+#: groups/create.php:220
+#@ buddypress
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: groups/create.php:238
+#@ buddypress
+msgid "Remove Invite"
+msgstr ""
+
+#: groups/create.php:255
+#@ buddypress
+msgid "Once you have built up friend connections you will be able to invite others to your group. You can send invites any time in the future by selecting the \"Send Invites\" option when viewing your new group."
+msgstr ""
+
+#: groups/create.php:277
+#@ buddypress
+msgid "Back to Previous Step"
+msgstr ""
+
+#: groups/create.php:284
+#@ buddypress
+msgid "Next Step"
+msgstr ""
+
+#: groups/create.php:291
+#@ buddypress
+msgid "Create Group and Continue"
+msgstr ""
+
+#: groups/create.php:298
+#@ buddypress
+msgid "Finish"
+msgstr ""
+
+#: groups/index.php:37
+#, php-format
+#@ buddypress
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: groups/index.php:63
+#@ buddypress
+msgid "Most Members"
+msgstr ""
+
+#: groups/index.php:64
+#@ buddypress
+msgid "Newly Created"
+msgstr ""
+
+#: header.php:20
+#@ buddypress
+msgctxt "Home page banner link title"
+msgid "Home"
+msgstr ""
+
+#: index.php:24
+#: single.php:16
+#, php-format
+#@ buddypress
+msgctxt "Post written by..."
+msgid "by %s"
+msgstr ""
+
+#: index.php:27
+#@ buddypress
+msgctxt "Sticky post"
+msgid "Featured"
+msgstr ""
+
+#: index.php:32
+#@ buddypress
+msgid "Permanent Link to"
+msgstr ""
+
+#: index.php:34
+#: single.php:23
+#, php-format
+#@ buddypress
+msgid "%1$s <span>in %2$s</span>"
+msgstr ""
+
+#: index.php:37
+#: single.php:28
+#@ buddypress
+msgid "Read the rest of this entry &rarr;"
+msgstr ""
+
+#: index.php:41
+#: single.php:33
+#@ buddypress
+msgid "Tags: "
+msgstr ""
+
+#: index.php:41
+#@ buddypress
+msgid "No Comments &#187;"
+msgstr ""
+
+#: index.php:41
+#@ buddypress
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: index.php:41
+#@ buddypress
+msgid "% Comments &#187;"
+msgstr ""
+
+#: index.php:54
+#@ buddypress
+msgid "Not Found"
+msgstr ""
+
+#: index.php:55
+#@ buddypress
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: members/index.php:23
+#@ buddypress
+msgid "Members Directory"
+msgstr ""
+
+#: members/index.php:61
+#@ buddypress
+msgid "Newest Registered"
+msgstr ""
+
+#: members/single/settings/capabilities.php:52
+#@ buddypress
+msgid "Capabilities"
+msgstr ""
+
+#: members/single/settings/capabilities.php:60
+#@ buddypress
+msgid "This user is a spammer."
+msgstr ""
+
+#: members/single/settings/capabilities.php:64
+#@ buddypress
+msgid "Save"
+msgstr ""
+
+#: members/single/settings/delete-account.php:53
+#@ buddypress
+msgid "Delete Account"
+msgstr ""
+
+#: members/single/settings/delete-account.php:58
+#@ buddypress
+msgid "WARNING: Deleting your account will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: members/single/settings/delete-account.php:61
+#@ buddypress
+msgid "I understand the consequences of deleting my account."
+msgstr ""
+
+#: members/single/settings/delete-account.php:66
+#@ buddypress
+msgid "Delete My Account"
+msgstr ""
+
+#: members/single/settings/general.php:53
+#@ buddypress
+msgid "General Settings"
+msgstr ""
+
+#: members/single/settings/general.php:59
+#@ buddypress
+msgid "Current Password <span>(required to update email or change current password)</span>"
+msgstr ""
+
+#: members/single/settings/general.php:60
+#@ buddypress
+msgid "Password Lost and Found"
+msgstr ""
+
+#: members/single/settings/general.php:60
+#@ buddypress
+msgid "Lost your password?"
+msgstr ""
+
+#: members/single/settings/general.php:62
+#@ buddypress
+msgid "Account Email"
+msgstr ""
+
+#: members/single/settings/general.php:65
+#@ buddypress
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+
+#: members/single/settings/general.php:66
+#@ buddypress
+msgid "New Password"
+msgstr ""
+
+#: members/single/settings/general.php:67
+#@ buddypress
+msgid "Repeat New Password"
+msgstr ""
+
+#: members/single/settings/general.php:72
+#: members/single/settings/notifications.php:65
+#@ buddypress
+msgid "Save Changes"
+msgstr ""
+
+#: members/single/settings/notifications.php:53
+#@ buddypress
+msgid "Email Notification"
+msgstr ""
+
+#: members/single/settings/notifications.php:58
+#@ buddypress
+msgid "Send a notification by email when:"
+msgstr ""
+
+#: single.php:24
+#@ buddypress
+msgid "Edit this entry"
+msgstr ""
+
+#: single.php:35
+#@ buddypress
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: single.php:36
+#@ buddypress
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: single.php:45
+#@ buddypress
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: theme-options.php:34
+#@ friscotheme
+msgid "Some themes provide customization options that are grouped together on a Theme Options screen. If you change themes, options may change or disappear, as they are theme-specific. Your current theme, <strong>Frisco for BuddyPress</strong>, provides the following Theme Options:"
+msgstr ""
+
+#: theme-options.php:36
+#@ friscotheme
+msgid "<strong>Theme Color</strong>: You can choose from several colors or use a custom stylesheet to create your own."
+msgstr ""
+
+#: theme-options.php:37
+#@ friscotheme
+msgid "<strong>Google Font</strong>: You can choose a Google Web Font for your site title with just a couple clicks."
+msgstr ""
+
+#: theme-options.php:38
+#@ friscotheme
+msgid "<strong>Custom Stylesheet</strong>: If you need to customize the stylesheet (ex. change fonts, colors, etc.), create a file called <code>custom.css</code> and simply check the box to load that stylesheet. This will make your life much easier when you upgrade the theme down the road because your changes will not be overriden."
+msgstr ""
+
+#: theme-options.php:39
+#@ friscotheme
+msgid "<strong>Custom Functions</strong>: Similar to the Custom Stylesheet option, you can load your own functions file instead of editing the main functions file. Create a file called <code>functions-custom.php</code> and check the option. Your custom functions file will not be overriden when upgrading the theme."
+msgstr ""
+
+#: theme-options.php:41
+#@ friscotheme
+msgid "Remember to click \"Save Changes\" to save any changes you have made to the theme options."
+msgstr ""
+
+#: theme-options.php:44
+#@ friscotheme
+msgid "<strong>USE WIDGETS:</strong> This theme uses the same sidebar and footer widgets available to the BuddyPress default theme. <a href=\"widgets.php\">Use them!</a> If you want to show different widgets on different pages, use the <a href=\"http://wordpress.org/extend/plugins/widget-logic/\">Widget Logic Plugin</a> (<a href=\"plugin-install.php?tab=search&type=term&s=widget+logic&plugin-search-input=Search+Plugins\">link to install</a>) along with some <a href=\"http://codex.wordpress.org/Conditional_Tags\">WordPress conditional tags</a> or <a href=\"http://codex.buddypress.org/developer-docs/conditional-template-tags/\">BuddyPress conditional tags</a>."
+msgstr ""
+
+#: theme-options.php:45
+#@ friscotheme
+msgid "<p><strong>GET SUPPORT:</strong> This theme is free and support is not included. But, if you get stuck or if you have any questions, start a new thread in the <a href=\"http://wordpress.org/support/forum/themes-and-templates\">WordPress theme forums</a> or the <a href=\"http://buddypress.org/community/groups/creating-extending/forum/\">BuddyPress theme forums</a>. <em>IMPORTANT:</em> If you post in the WordPress or BuddyPress forums, make sure you add the tag \"Frisco\" or \"Frisco Theme\" to the post. This will make it easier for the theme author to become aware of your issue.</p>"
+msgstr ""
+
+#: theme-options.php:48
+#@ friscotheme
+msgid "For more information:"
+msgstr ""
+
+#: theme-options.php:49
+#@ friscotheme
+msgid "<a href=\"http://friscotheme.com\" target=\"_blank\">Frisco Theme Website</a>"
+msgstr ""
+
+#: theme-options.php:50
+#@ friscotheme
+msgid "<a href=\"http://wordpress.org/tags/frisco-for-buddypress\" target=\"_blank\">Free Support Forums</a>"
+msgstr ""
+
+#: theme-options.php:57
+#@ friscotheme
+msgid "Overview"
+msgstr ""
+
+#: theme-options.php:63
+#@ friscotheme
+msgid "Tips"
+msgstr ""
+
+#: theme-options.php:97
+#@ friscotheme
+msgid "Default"
+msgstr ""
+
+#: theme-options.php:101
+#@ friscotheme
+msgid "Green"
+msgstr ""
+
+#: theme-options.php:105
+#@ friscotheme
+msgid "Orange"
+msgstr ""
+
+#: theme-options.php:109
+#@ friscotheme
+msgid "Yellow"
+msgstr ""
+
+#: theme-options.php:113
+#@ friscotheme
+msgid "Grey"
+msgstr ""
+
+#: theme-options.php:117
+#@ friscotheme
+msgid "Purple"
+msgstr ""
+
+#: theme-options.php:124
+#@ friscotheme
+msgid "Yes"
+msgstr ""
+
+#: theme-options.php:128
+#@ friscotheme
+msgid "No"
+msgstr ""
+
+#: theme-options.php:132
+#@ friscotheme
+msgid "Maybe"
+msgstr ""
+
+#: theme-options.php:139
+#@ friscotheme
+msgid "Lobster Two"
+msgstr ""
+
+#: theme-options.php:143
+#@ friscotheme
+msgid "Quattrocento"
+msgstr ""
+
+#: theme-options.php:147
+#@ friscotheme
+msgid "Droid Sans"
+msgstr ""
+
+#: theme-options.php:151
+#@ friscotheme
+msgid "PT Sans"
+msgstr ""
+
+#: theme-options.php:155
+#@ friscotheme
+msgid "Yanone Kaffeesatz"
+msgstr ""
+
+#: theme-options.php:159
+#@ friscotheme
+msgid "Cabin"
+msgstr ""
+
+#: theme-options.php:163
+#@ friscotheme
+msgid "Black Ops One"
+msgstr ""
+
+#: theme-options.php:167
+#@ friscotheme
+msgid "Nixie One"
+msgstr ""
+
+#: theme-options.php:171
+#@ friscotheme
+msgid "Bangers"
+msgstr ""
+
+#: theme-options.php:175
+#@ friscotheme
+msgid "Monofett"
+msgstr ""
+
+#: theme-options.php:193
+#@ friscotheme
+msgid "Frisco Theme Options"
+msgstr ""
+
+#: theme-options.php:198
+#@ friscotheme
+msgid "Options saved"
+msgstr ""
+
+#: theme-options.php:212
+#@ friscotheme
+msgid "Select Theme Color"
+msgstr ""
+
+#: theme-options.php:230
+#@ friscotheme
+msgid "Choose a color scheme for your website."
+msgstr ""
+
+#: theme-options.php:239
+#@ friscotheme
+msgid "Select Google Font"
+msgstr ""
+
+#: theme-options.php:257
+#@ friscotheme
+msgid "Choose a font for the site title."
+msgstr ""
+
+#: theme-options.php:266
+#@ friscotheme
+msgid "Custom Stylesheet"
+msgstr ""
+
+#: theme-options.php:269
+#@ friscotheme
+msgid "Check this box to use a custom stylesheet. Create <code>custom.css</code> in the main theme directory."
+msgstr ""
+
+#: theme-options.php:278
+#@ friscotheme
+msgid "Custom Functions"
+msgstr ""
+
+#: theme-options.php:281
+#@ friscotheme
+msgid "Check this box to use a custom functions file. Create <code>functions-custom.php</code> in the main theme directory."
+msgstr ""
+
+#: theme-options.php:287
+#@ friscotheme
+msgid "Save Options"
+msgstr ""
+
